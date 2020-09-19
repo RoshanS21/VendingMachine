@@ -1,0 +1,6 @@
+Machine Bugs Bunny|50|600|48
+Machine Cecil Turtle|45|500|45
+Machine Daffy Duck|40|500|-1
+Machine Elmer Fudd|100|1000|10
+Machine Fog Horn|35|300|98
+Roshan's Coke Machine|100|1100|100
